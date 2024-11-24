@@ -1,6 +1,6 @@
 function rollDice(max){
-  let result = Math.random(max);
-  return result;
+  let roll = Math.floor(Math.random()*(max-1+1))+1;
+  return roll;
 };
 
 //idk what im doing ive not done this
