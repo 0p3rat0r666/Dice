@@ -4,7 +4,7 @@ console.clear();
 function rollDice(max){
   rl.close();
   let roll = Math.floor(Math.random()*(max-1+1))+1;
-  console.log("||||||||||||||||")
+  console.log("||||||||||||||||");
   console.log("||            ||");
   console.log("||            ||");
   console.log("||    ${roll}     ||");
