@@ -1,13 +1,9 @@
 // html version
 
 function rollDice() {
-  let max = document.getElementById("max").name;
-  console.log(typeof(max)); // string
-  // convert to int
-  max = parseInt(max);
-  console.log(typeof(max)); // number
-  let roll = Math.floor(Math.random()*(max))+1; // it SHOULD save the number...
-  console.log(roll); // NaN
-  console.log(typeof(roll));
-  document.getElementById("result").innerHTML = roll; // shows NaN. variable name will not light up?
+  let max = prompt("What is the max face?");
+  let roll = Math.floor(Math.random()*(max))+1;
+  document.getElementById("result").innerHTML = roll;
 }
+
+// i wanted to use a text input but i couldnt get it to access the number properly. i will probably switch to text input at a later date
