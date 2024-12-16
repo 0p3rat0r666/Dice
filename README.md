@@ -4,6 +4,6 @@
 
 ![*☆*](https://xaoiui.neocities.org/Limestar.gif) Using the ``Math.floor(Math.random()*(max))+1`` the function will pick a random number and print it to the console. ![*☆*](https://xaoiui.neocities.org/Limestar.gif)
 
-![*☆*](https://xaoiui.neocities.org/Limestar.gif) You can view the HTML version on [my website!!](https://xaoiui.neocities.org/PR0J3C75) ![*☆*](https://xaoiui.neocities.org/Limestar.gif)
+![*☆*](https://xaoiui.neocities.org/Limestar.gif) You can view the HTML version on [my website!!](https://xaoiui.neocities.org/PR0J3C75) plus the raw function code in this repo! ![*☆*](https://xaoiui.neocities.org/Limestar.gif)
 
 *☆* *♡* *☆* *♡* *☆* *♡* *☆* *♡* *☆* *♡* *☆* *♡*
